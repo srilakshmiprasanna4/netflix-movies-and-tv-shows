@@ -1,15 +1,19 @@
 # Netflix Movies and TV Shows
-This project provides an in-depth analysis of Netflix’s catalog of movies and TV shows using Python (Pandas, Matplotlib) and Power BI. It explores trends in content types, genre distribution, country-wise availability, and much more.
+## Problem Statement
+With the rise of streaming services, understanding viewer content, trends, and platform strategies has become vital for business decisions, content creators, and media analysts. This project aims to analyze the Netflix dataset to uncover insights about content type, production trends, country-based offerings, and more.
+
+The primary objective is to answer questions such as:
+- What kind of content does Netflix focus on more: Movies or TV Shows?
+- How has Netflix’s content library grown over the years?
+- Which countries contribute the most to Netflix’s content?
+
+## Dataset Overview
+The dataset used in this project is the Netflix Movies and TV Shows dataset, originally sourced from Kaggle and contains information about TV shows and movies available on Netflix as of 2021.
 
 ## Tools & Technologies Used
 - Python (Pandas, Matplotlib) – Data cleaning and visualization
 - Power BI – Interactive dashboards
 - CSV Dataset – Netflix titles dataset (from Kaggle)
-
-## Key Insights
-- Growth in Netflix content over the years
-- Top Countries by Movies and TV Shows
-- Distribution of Movies vs TV Shows
 
 ## Features
 - Cleaned and processed raw Netflix data
